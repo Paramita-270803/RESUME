@@ -37,7 +37,8 @@ A motivated Data Analyst with a strong foundation in Computer Applications. Pass
 
 - Built analytics workflow using **Python, SQL, Power BI**  
 - Performed **data cleaning & EDA**  
-- Developed **interactive dashboards** for KPIs like revenue & retention  
+- Developed **interactive dashboards** for KPIs like revenue & retention
+- Project Link: https://github.com/Paramita-270803/NammaYatry-Trip-Revenue-and-Customer-Behavior-Analysis
 
 ---
 
